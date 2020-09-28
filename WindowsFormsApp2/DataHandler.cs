@@ -10,5 +10,6 @@ namespace WindowsFormsApp2
     {
         private double speed;
         private double fuel;
+        private double distance;
     }
 }
